@@ -7,7 +7,7 @@ Windows 10 Pro Feature Update Delay
 
 3.Type gpedit.msc to open your Local Policies Editor
 
-4 Find to Computer>Administrative>Templates>Windows Components>Windows Update>Windows Update for Business
+4 Find Computer>Administrative>Templates>Windows Components>Windows Update>Windows Update for Business
 
 5.Set the "Select when Preview Builds and Feature Updates are receieved" policy to Enabled 
 
