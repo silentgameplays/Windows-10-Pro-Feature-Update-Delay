@@ -18,4 +18,4 @@ Windows 10 Pro Feature Update Delay
 
 8.Click Apply/Ok and Exit
 
-See the attached picture for details
+See the attached pictures for details
